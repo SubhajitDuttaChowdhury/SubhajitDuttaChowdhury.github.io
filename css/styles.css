@@ -13,7 +13,7 @@
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
-  --bs-purple: #6f42c1;
+  --bs-purple: #905eec;
   --bs-pink: #d63384;
   --bs-red: #dc3545;
   --bs-orange: #bd5d38;
@@ -34,7 +34,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   /* --bs-primary: #1E90FF; */
-  --bs-primary: #6f42c1;
+  --bs-primary: #9e7ae1;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 111, 66, 193;
+  --bs-primary-rgb: 158, 122, 225;
   /* --bs-primary-rgb: 30, 144, 255; */
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
